@@ -1,2 +1,2 @@
-# carrer-website
-a carrer website for student
+# career-website
+a career website for student
